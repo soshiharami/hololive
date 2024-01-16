@@ -1,0 +1,9 @@
+Items: {
+	Carrot: {
+		DisplayName: Carrot
+		Tooltip: yummy
+	}
+}
+
+NPCs.ThrowingNPC.DisplayName: Throwing N P C
+Projectiles.ThrowingCarrot.DisplayName: Throwing Carrot

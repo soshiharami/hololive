@@ -1,0 +1,3 @@
+displayName = Hololibe Mod
+author = soshi_harami
+version = 0.1

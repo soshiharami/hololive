@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TZAwEsVfCz+Zhhyxs91mMexGrVeIizh6Y+Iqu/aka5KUvGiljaw82louvVCBBr1c4WUaCMFTIfTFrdy5d8KVUQ==",
+  "success": true,
+  "projectFilePath": "/home/soshi/.local/share/Terraria/tModLoader/ModSources/hololive/hololive.csproj",
+  "expectedPackageFiles": [
+    "/home/soshi/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "/home/soshi/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

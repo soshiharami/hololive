@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/soshi/.local/share/Terraria/tModLoader/ModSources/hololive/hololive.csproj": {}
+  },
+  "projects": {
+    "/home/soshi/.local/share/Terraria/tModLoader/ModSources/hololive/hololive.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/soshi/.local/share/Terraria/tModLoader/ModSources/hololive/hololive.csproj",
+        "projectName": "hololive",
+        "projectPath": "/home/soshi/.local/share/Terraria/tModLoader/ModSources/hololive/hololive.csproj",
+        "packagesPath": "/home/soshi/.nuget/packages/",
+        "outputPath": "/home/soshi/.local/share/Terraria/tModLoader/ModSources/hololive/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/soshi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
